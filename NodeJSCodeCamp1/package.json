@@ -1,0 +1,9 @@
+{
+  "name": "node-jscode-camp1",
+  "version": "0.0.0",
+  "description": "NodeJSCodeCamp1",
+  "main": "server.js",
+  "author": {
+    "name": "Manit"
+  }
+}
